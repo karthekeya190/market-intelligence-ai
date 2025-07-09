@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openai
+langchain
+beautifulsoup4
+scrapy
+selenium
+plotly
+langgraph
+tiktoken
+python-dotenv
